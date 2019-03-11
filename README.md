@@ -7,7 +7,7 @@ getDigit(num, n, radix);
 ```
 
 ```js
-getDigi(1454, 1, 16) //A
+getDigit(1454, 1, 16) //A
 ```
 
 ```js
